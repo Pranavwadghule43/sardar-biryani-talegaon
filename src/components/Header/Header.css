@@ -2,7 +2,7 @@
   width: 80%;
   height: 42vw;
   margin: 22px auto;
-  background: url("C:\Users\prana\Downloads\Sardar\frontend\src\assets\header_img.png")
+  background: url("public/header_img.png")
     no-repeat;
   background-size: contain;
   position: relative;
