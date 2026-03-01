@@ -4,7 +4,7 @@ import header_img from "../../assets/header_img.png"
 
 const Header = () => {
   return (
-    <div className="header" style={{backgroundImage: URL(${header_img})}}>
+    <div className="header" style={{backgroundImage: `url(${header_img})`}}>
       <div className="header-contents">
         <h2>Order your favourite food here.</h2>
         <p>
