@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -18,3 +19,19 @@ If you are developing a production application, we recommend using TypeScript wi
 =======
 # Sardar-Biryani-House
 >>>>>>> 059dc04b8d7050886bbbee1239add9102d9904d7
+=======
+# Sardar Biryani House 🍽️
+
+A modern restaurant website built using React + Vite.
+
+## Features
+- Food Menu
+- Awards Section
+- Online Cart UI
+- Responsive Design
+
+## Tech Stack
+- React
+- Vite
+- CSS
+>>>>>>> 5689e977dca32e7c90aa21cd0f67692c9c6366c6
