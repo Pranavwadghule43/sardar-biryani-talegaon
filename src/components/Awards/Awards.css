@@ -1,7 +1,12 @@
 .awards {
   width: 80%;
   margin: 20px auto;
+<<<<<<< HEAD
   padding: 20px;
+=======
+  padding: 60px 20px;
+  padding-top: 20px;
+>>>>>>> ec83d5c762d12d0603d216d876a41298354cffb4
 }
 
 .awards h1 {
@@ -51,6 +56,7 @@
   transform: scale(1.05);
 }
 
+<<<<<<< HEAD
 .awards hr {
   margin: 10px 0px;
   margin-top: 50px;
@@ -85,7 +91,19 @@
 }
 
 @media (max-width: 400px) {
+=======
+@media (max-width: 768px) {
+>>>>>>> ec83d5c762d12d0603d216d876a41298354cffb4
   .awards-section {
     grid-template-columns: 1fr;
   }
 }
+<<<<<<< HEAD
+=======
+
+@media (max-width: 800px) {
+  .awards-section-layout {
+    max-width: 100%;
+  }
+}
+>>>>>>> ec83d5c762d12d0603d216d876a41298354cffb4

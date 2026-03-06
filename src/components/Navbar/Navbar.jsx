@@ -4,7 +4,10 @@ import { assets } from "../../assets/assets";
 import { Link } from "react-router-dom";
 
 const Navbar = () => {
+<<<<<<< HEAD
   const [open, setOpen] = useState(false);
+=======
+>>>>>>> ec83d5c762d12d0603d216d876a41298354cffb4
   const [menu, setMenu] = useState("Home");
 
   return (

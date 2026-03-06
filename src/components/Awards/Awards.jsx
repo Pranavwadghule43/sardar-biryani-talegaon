@@ -22,7 +22,10 @@ const Awards = () => {
           </div>
         </div>
       </div>
+<<<<<<< HEAD
       <hr />
+=======
+>>>>>>> ec83d5c762d12d0603d216d876a41298354cffb4
     </div>
   );
 };

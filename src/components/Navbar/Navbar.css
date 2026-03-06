@@ -32,17 +32,26 @@
 
 @media (max-width: 1050px) {
   .navbar .logo {
+<<<<<<< HEAD
     width: 80px;
     margin-left: 20px;
   }
   .navbar-menu {
     font-size: 15px;
     margin-right: 30px;
+=======
+    width: 100px;
+  }
+  .navbar-menu {
+    font-size: 16px;
+    margin-right: 40px;
+>>>>>>> ec83d5c762d12d0603d216d876a41298354cffb4
   }
 }
 
 @media (max-width: 560px) {
   .navbar-menu {
+<<<<<<< HEAD
     gap: 10px;
     margin-right: 20px;
   }
@@ -57,3 +66,9 @@
     font-size: 12px;
   }
 }
+=======
+    gap: 12px;
+    margin-right: 20px;
+  }
+}
+>>>>>>> ec83d5c762d12d0603d216d876a41298354cffb4

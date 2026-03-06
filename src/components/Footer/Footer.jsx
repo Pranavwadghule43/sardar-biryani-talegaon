@@ -22,7 +22,11 @@ const Footer = () => {
         <div className="footer-content-center">
           <h2>Restaurant</h2>
           <p>
+<<<<<<< HEAD
             <span> Address: </span>Talegaon Dhabade Road, Talegaon Dhabade, Tal.
+=======
+            <span> Address: </span>Talegaon Dhamdhere Road, Talegaon Dhamdhere, Tal.
+>>>>>>> ec83d5c762d12d0603d216d876a41298354cffb4
             Shirur, Dis. Pune
           </p>
         </div>

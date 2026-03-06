@@ -14,3 +14,25 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<<<<<<< HEAD
+=======
+=======
+# Sardar-Biryani-House
+>>>>>>> 059dc04b8d7050886bbbee1239add9102d9904d7
+=======
+# Sardar Biryani House 🍽️
+
+A modern restaurant website built using React + Vite.
+
+## Features
+- Food Menu
+- Awards Section
+- Online Cart UI
+- Responsive Design
+
+## Tech Stack
+- React
+- Vite
+- CSS
+>>>>>>> 5689e977dca32e7c90aa21cd0f67692c9c6366c6
+>>>>>>> ec83d5c762d12d0603d216d876a41298354cffb4

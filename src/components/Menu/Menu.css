@@ -17,6 +17,10 @@
 
 .explore-menu-list {
   display: flex;
+<<<<<<< HEAD
+=======
+  justify-content: space-between;
+>>>>>>> ec83d5c762d12d0603d216d876a41298354cffb4
   align-items: center;
   gap: 20px;
   text-align: center;
@@ -62,14 +66,22 @@
   .explore-menu h1 {
     font-size: 25px;
   }
+<<<<<<< HEAD
   .explore-menu-text {
     font-size: 15px;
     max-width: 90%;
+=======
+
+  .explore-menu-text {
+    font-size: 17px;
+    max-width: 80%;
+>>>>>>> ec83d5c762d12d0603d216d876a41298354cffb4
   }
   .explore-menu hr {
     margin-top: 0px;
   }
 }
+<<<<<<< HEAD
 
 @media (max-width: 500px) {
   .explore-menu {
@@ -92,3 +104,5 @@
     font-size: 14px;
   }
 }
+=======
+>>>>>>> ec83d5c762d12d0603d216d876a41298354cffb4

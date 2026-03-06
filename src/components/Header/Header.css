@@ -4,6 +4,10 @@
   margin: 22px auto;
   background-repeat: no-repeat;
   background-size: contain;
+<<<<<<< HEAD
+=======
+  background-size: contain;
+>>>>>>> ec83d5c762d12d0603d216d876a41298354cffb4
   position: relative;
   border-radius: 20px;
   color: azure;
@@ -30,6 +34,7 @@
   font-size: 1vw;
 }
 
+<<<<<<< HEAD
 @media (max-width: 390px) {
   .header h2 {
     font-size: 13px;
@@ -42,11 +47,14 @@
   }
 }
 
+=======
+>>>>>>> ec83d5c762d12d0603d216d876a41298354cffb4
 @media (max-width: 900px) {
   .header {
     width: 90%;
     background-size: cover;
   }
+<<<<<<< HEAD
 }
 
 @media (max-width: 500px) {
@@ -61,3 +69,6 @@
     bottom: 30%;
   }
 }
+=======
+}
+>>>>>>> ec83d5c762d12d0603d216d876a41298354cffb4

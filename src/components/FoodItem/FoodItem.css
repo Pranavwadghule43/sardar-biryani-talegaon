@@ -42,6 +42,7 @@
   margin: 10px 0px;
   margin-bottom: 30px;
 }
+<<<<<<< HEAD
 
 @media (max-width: 900px) {
   .food-item-name-rating p {
@@ -73,3 +74,5 @@
     padding: 12px;
   }
 }
+=======
+>>>>>>> ec83d5c762d12d0603d216d876a41298354cffb4

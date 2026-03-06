@@ -36,6 +36,7 @@
 }
 
 @media (max-width: 900px) {
+<<<<<<< HEAD
   .menu-card {
     width: 85%;
   }
@@ -64,4 +65,9 @@
   .menu-card hr {
     margin: 10px;
   }
+=======
+  .menu_card_items {
+    margin-top: 20px;
+  }
+>>>>>>> ec83d5c762d12d0603d216d876a41298354cffb4
 }
